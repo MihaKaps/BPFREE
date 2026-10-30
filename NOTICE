@@ -1,0 +1,10 @@
+Backpropagation-free Deep Learning for Time-Series Classification
+Copyright 2026 M. Kaps, B. Bertalanic, C. Fortuna, Jozef Stefan Institute
+
+This product includes software derived from the DRTP code base
+(Direct Random Target Projection), Copyright (C) 2019 Universite catholique
+de Louvain (UCLouvain), Belgium, licensed under the Apache License 2.0:
+https://github.com/ChFrenkel/DirectRandomTargetProjection
+The derived files (bpfree/function.py, module.py, models.py, models_GAP.py,
+train.py, train_GAP.py, data.py) carry the original copyright header and a
+notice describing the modifications.
